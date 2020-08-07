@@ -1,0 +1,5 @@
+(princ "What is your name? ")
+(setq name (read))
+(princ "Hello ")
+(write name))
+(write " That is lisp."))
